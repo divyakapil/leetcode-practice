@@ -6,7 +6,7 @@ This repository contains my solutions to various LeetCode problems, categorized 
 - Improve my problem-solving and algorithmic thinking
 - Track my progress over time
 
-Each solution is written in `Java` / `Python`
+Each solution is written in `Python`
 
 ## Topics Covered
 
